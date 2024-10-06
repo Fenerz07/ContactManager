@@ -1,0 +1,14 @@
+C:\Users\hugom\OneDrive\Bureau\Enigma 2ème année\1PERSO\C#\Contact\obj\Debug\net8.0\Contact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugom\OneDrive\Bureau\Enigma 2ème année\1PERSO\C#\Contact\obj\Debug\net8.0\Contact.AssemblyInfoInputs.cache
+C:\Users\hugom\OneDrive\Bureau\Enigma 2ème année\1PERSO\C#\Contact\obj\Debug\net8.0\Contact.AssemblyInfo.cs
+C:\Users\hugom\OneDrive\Bureau\Enigma 2ème année\1PERSO\C#\Contact\obj\Debug\net8.0\Contact.csproj.CoreCompileInputs.cache
+C:\Users\hugom\OneDrive\Bureau\Enigma 2ème année\1PERSO\C#\Contact\bin\Debug\net8.0\Contact.exe
+C:\Users\hugom\OneDrive\Bureau\Enigma 2ème année\1PERSO\C#\Contact\bin\Debug\net8.0\Contact.deps.json
+C:\Users\hugom\OneDrive\Bureau\Enigma 2ème année\1PERSO\C#\Contact\bin\Debug\net8.0\Contact.runtimeconfig.json
+C:\Users\hugom\OneDrive\Bureau\Enigma 2ème année\1PERSO\C#\Contact\bin\Debug\net8.0\Contact.dll
+C:\Users\hugom\OneDrive\Bureau\Enigma 2ème année\1PERSO\C#\Contact\bin\Debug\net8.0\Contact.pdb
+C:\Users\hugom\OneDrive\Bureau\Enigma 2ème année\1PERSO\C#\Contact\obj\Debug\net8.0\Contact.dll
+C:\Users\hugom\OneDrive\Bureau\Enigma 2ème année\1PERSO\C#\Contact\obj\Debug\net8.0\refint\Contact.dll
+C:\Users\hugom\OneDrive\Bureau\Enigma 2ème année\1PERSO\C#\Contact\obj\Debug\net8.0\Contact.pdb
+C:\Users\hugom\OneDrive\Bureau\Enigma 2ème année\1PERSO\C#\Contact\obj\Debug\net8.0\Contact.genruntimeconfig.cache
+C:\Users\hugom\OneDrive\Bureau\Enigma 2ème année\1PERSO\C#\Contact\obj\Debug\net8.0\ref\Contact.dll
